@@ -128,11 +128,7 @@ autoscaling:
     scaleUp:
       stabilizationWindowSeconds: 60
 
-namespace:
-  enabled: true
-  name: 'unicorn'
-  app: 'unicorn'
-  environment: 'prod'
+
 
 
 
