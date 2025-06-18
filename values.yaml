@@ -151,6 +151,7 @@ volumeMounts: []
 
 nodeSelector:
   nvidia.com/gpu.count: '1'
+  nvidia.com/gpu.product: "NVIDIA-GeForce-GTX-1050-Ti-SHARED" 
 
 tolerations: []
 
