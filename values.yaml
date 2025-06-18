@@ -20,11 +20,11 @@ image:
 resources: 
     limits:
       cpu: "4000m"
-      memory: "4G"
+      memory: "5G"
       nvidia.com/gpu: 1
     requests:
-      cpu: "1000m"
-      memory: "3G"
+      cpu: "3000m"
+      memory: "4G"
       nvidia.com/gpu: 1
 
 
